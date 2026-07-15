@@ -2,8 +2,6 @@
 A local-first project manager that combines the best of Notion, Milanote, and Obsidian  docs, databases, moodboards, and creative tools in one app
 # 🏔️ Summit
 
-**The project manager that replaces your Notion and Milanote. Local-first, free, yours.**
-
 <!-- Badges — add these once available:
 [![Latest Release](https://img.shields.io/github/v/release/Xuaenradev/summit)](https://github.com/Xuaenradev/summit/releases)
 [![Downloads](https://img.shields.io/github/downloads/Xuaenradev/summit/total)](https://github.com/Xuaenradev/summit/releases)
@@ -16,7 +14,7 @@ A local-first project manager that combines the best of Notion, Milanote, and Ob
 
 <img width="1987" height="1297" alt="Image" src="https://github.com/user-attachments/assets/4af9f2f6-60de-401d-a685-e7a9324f240e" />
 
-<img width="2002" height="1300" alt="Image" src="https://github.com/user-attachments/assets/1f366901-a099-43f0-bc6f-2cfc699
+<img width="2002" height="1300" alt="Image" src="https://github.com/user-attachments/assets/1f366901-a099-43f0-bc6f-2cfc699" />
 
 ---
 
