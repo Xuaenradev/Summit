@@ -10,8 +10,13 @@ A local-first project manager that combines the best of Notion, Milanote, and Ob
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)]()
 -->
 
-<!-- ADD SCREENSHOT HERE — a wide hero shot of Summit with a board + doc open.
-     This is the single most important thing on this page. -->
+<img width="2449" height="1326" alt="Image" src="https://github.com/user-attachments/assets/c210a6d8-070f-41ea-9530-446ea761fc10" />
+
+<img width="1986" height="870" alt="Image" src="https://github.com/user-attachments/assets/fa4c1261-e54f-498e-b693-a7c8e8b90468" />
+
+<img width="1987" height="1297" alt="Image" src="https://github.com/user-attachments/assets/4af9f2f6-60de-401d-a685-e7a9324f240e" />
+
+<img width="2002" height="1300" alt="Image" src="https://github.com/user-attachments/assets/1f366901-a099-43f0-bc6f-2cfc699
 
 ---
 
