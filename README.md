@@ -24,7 +24,7 @@ A local-first project manager that combines the best of Notion, Milanote, and Ob
 
 ## ℹ️ Overview
 
-Summit is a local-first desktop project manager for people who plan *and* make things — designers, game devs, students, and engineers.
+Summit is a local-first desktop project manager for people who plan *and* make things designers, game devs, students, engineers and who ever thinks it could work for them.
 
 It exists because the tools I used didn't fit together. Notion is great for structure but has no creative surface. Milanote is a beautiful board but caps you at 100 cards and charges for more. Obsidian keeps your notes as real files but isn't a project manager. I wanted one app with the board, the docs, the databases, and the creative tools — that didn't rent me my own data back.
 
